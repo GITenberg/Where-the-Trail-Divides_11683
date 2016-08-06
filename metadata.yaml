@@ -1,0 +1,25 @@
+_repo: Where-the-Trail-Divides_11683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lillibridge, Will
+    alias: Lillibridge, William Otis
+    birthdate: 1878
+    deathdate: 1909
+    gutenberg_agent_id: '4068'
+    url: http://www.gutenberg.org/2009/agents/4068
+description: Cover -- Contents.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- Dakota Territory -- Fiction'
+- GITenberg
+title: Where the Trail Divides
+url: http://www.gutenberg.org/ebooks/11683
