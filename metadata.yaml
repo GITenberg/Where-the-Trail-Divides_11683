@@ -1,5 +1,8 @@
 _repo: Where-the-Trail-Divides_11683
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 11683-h/cover.png
 creator:
   author:
     agent_name: Lillibridge, Will
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4068'
     url: http://www.gutenberg.org/2009/agents/4068
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11683#Where-the-Trail-Divides
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
